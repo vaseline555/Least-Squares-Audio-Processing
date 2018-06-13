@@ -3,15 +3,6 @@ Simple audio processing techniques using least squares method (based on Ivan Sel
   http://eeweb.poly.edu/iselesni/lecture_notes/least_squares/least_squares_SP.pdf
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%															                                                                                        %%
-%%					     MGE201_Group10_Final Project						                                                                %%
-%%				      < Signal Processing with Least Squares >						                                                    %%
-%%															                                                                                        %%
-%%					        	20151676 Seokju Hahn							                                                                %%
-%%														                                                                                        	%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 					** All files are implemented in MATLAB **
 
 %% Sound Files Description
