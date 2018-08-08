@@ -34,3 +34,6 @@ Simple audio processing techniques using least squares method
   since they use both 'get_inverse_via_GS_QR.m', and 'back_substitution.m'
   (for getting an inverse and final solution without using built-in solver)
 * Check generated files (figure, sound file) to find sound input is processed well or not.
+
+<hr>
+By. Seokju Hahn / https://www.kaggle.com/ggouaeng / sjhahn11512@naver.com
