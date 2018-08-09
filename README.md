@@ -1,10 +1,11 @@
 # Least-Squares-Audio-Processing
 <pre>
-Simple audio processing techniques using least squares method
+* Course project of MGE201 Operations Research I, UNIST  
+* Simple audio processing techniques using least squares method
 (mainly based on Ivan Selesnick's works)
 (http://eeweb.poly.edu/iselesni/lecture_notes/least_squares/least_squares_SP.pdf)
 </pre>
-* Course project of MGE201 Operations Research I, UNIST
+
 
 ## Sound Files Description
 * ah.wav 	: Pavarotti's High C sound (will be read only 0.10 sec for declipping_solver.m)
