@@ -37,4 +37,4 @@
 * Check generated files (figure, sound file) to find sound input is processed well or not.
 
 <hr>
-By. Seokju Hahn / https://www.kaggle.com/ggouaeng / sjhahn11512@naver.com
+By. Seokju Hahn / https://www.kaggle.com/vaseline555 / sjhahn11512@naver.com
