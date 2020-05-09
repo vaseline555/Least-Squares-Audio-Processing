@@ -36,5 +36,3 @@
   (for getting an inverse and final solution without using built-in solver)
 * Check generated files (figure, sound file) to find sound input is processed well or not.
 
-<hr>
-By. Seokju Hahn / https://www.kaggle.com/vaseline555 / sjhahn11512@naver.com
